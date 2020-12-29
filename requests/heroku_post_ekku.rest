@@ -1,0 +1,7 @@
+POST https://young-wave-90953.herokuapp.com/api/persons HTTP/1.1
+content-type: application/json
+
+{
+    "name": "Ekku",
+    "number": "044-2525254"
+}
